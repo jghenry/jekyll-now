@@ -78,3 +78,100 @@ In the fall of 2015 I travelled around western Europe. Here is a photo record of
 ![_config.yml]({{ site.baseurl }}/images/IMG_20150921_131516602.jpg)
 ![_config.yml]({{ site.baseurl }}/images/IMG_20150921_131558748-PANO.jpg)
 ![_config.yml]({{ site.baseurl }}/images/IMG_0287-PANO.jpg)
+
+16. Venice
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20150925_102507751_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150925_133416266.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150925_134935644-PANO.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150925_142111614.jpg)
+
+17. San Marino
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20150926_160728377_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150926_170517119-PANO.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150926_171032164_HDR.jpg)
+
+18. Italy
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20150927_101858428.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150927_123803206-PANO.jpg)
+
+19. Pescina
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20150928_122234048-PANO.jpg)
+
+20. Amalfi Coast
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20150929_161638332_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150929_162727594_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150929_164244936.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20150929_182905009.jpg)
+
+21. Rome
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20150930_120056914_HDR.jpg)
+
+22. Florence
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151002_133229784.jpg)
+
+23. Pisa
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151003_105019760.jpg)
+
+24. Cinque Terre
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151005_091037880_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151005_103232215_HDR.jpg)
+
+25. Vernazza
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151005_111049569_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151005_112843372_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151005_130410131_HDR.jpg)
+
+26. Corniglia
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151005_140110102_HDR.jpg)
+
+27. Manarola
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151005_172553174_HDR.jpg)
+
+28. St.-Jean-Cap-Ferrat
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151007_145518976.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151007_154125786_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/_20151027_154342.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151007_154552347_HDR.jpg)
+
+29. Eze
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151008_112059874_HDR.jpg)
+
+30. Hyeres
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151009_124635025_HDR-PANO.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151010_125344757_HDR-PANO.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151010_174254450_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151011_084035488_HDR.jpg)
+
+31. Porquerolles
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151011_100834366_HDR-PANO.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151011_115907716_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151011_144742414_HDR.jpg)
+![_config.yml]({{ site.baseurl }}/images/IMG_20151011_145910460_HDR.jpg)
+
+32. Cassis
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151012_125333712_HDR.jpg)
+
+33. Avignon
+
+![_config.yml]({{ site.baseurl }}/images/IMG_20151013_105712298_HDR.jpg)
+
+34. Versailles
+
+![_config.yml]({{ site.baseurl }}/images/IMG_0458.jpg)
