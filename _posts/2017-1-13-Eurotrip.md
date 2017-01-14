@@ -133,7 +133,7 @@ St.-Jean-Cap-Ferrat
 
 ![_config.yml]({{ site.baseurl }}/images/IMG_20151007_145518976.jpg)
 ![_config.yml]({{ site.baseurl }}/images/IMG_20151007_154125786_HDR.jpg)
-![_config.yml]({{ site.baseurl }}/images/_20151027_154342.JPG)
+![_config.yml]({{ site.baseurl }}/images/photo.JPG)
 ![_config.yml]({{ site.baseurl }}/images/IMG_20151007_154552347_HDR.jpg)
 
 Eze
